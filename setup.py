@@ -34,7 +34,7 @@ setup(
     python_requires=">=3.6",
     classifiers=[
         "Programming Language :: Python :: 3",
-        "License :: OSI Approved :: GNU AFFERO GENERAL PUBLIC LICENSE v3",
+        "License :: OSI Approved :: GNU Affero General Public License v3 or later (AGPLv3+)",
         "Operating System :: OS Independent",
     ],
 install_requires=_parse_requirements('requirements.txt'),
