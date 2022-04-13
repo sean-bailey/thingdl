@@ -10,8 +10,8 @@ thingdl is a command line tool that is aimed to simplify that. With a single com
 
 `pip3 install thingdl`
 
-Next, find the thing you wish to download. Click on the "download all files" link, and copy the url
-(it will end in /files)
+Next, find the thing you wish to download. ~~Click on the "download all files" link, and copy the url
+(it will end in /files)~~ Now the base url and the `/files` url are compatible! 
 
 From a terminal or command prompt:
 

@@ -10,6 +10,8 @@ import itertools
 
 def bulk_download_thingiverse(thingurl,savedir):
     import webdriver_selector
+    if not thingurl.endswith("/files"):
+        thingurl=thingurl+"/files"
     linkcount=0
     linkcountold=0
     finishedloading=False
