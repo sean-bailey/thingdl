@@ -20,7 +20,7 @@ print(find_packages())
 
 setup(
     name='thingdl',
-    version='1.1',
+    version='1.1.0',
     packages=find_packages(),
     entry_points={
         "console_scripts": ["thingdl=thingdl.thingiverse_downloader:main"]

@@ -16,7 +16,7 @@ Next, find the thing you wish to download. ~~Click on the "download all files" l
 From a terminal or command prompt:
 
 ```
-thingdl -u <yourthingurl/files> -d <your destination directory>
+thingdl -u <yourthingurl> -d <your destination directory>
 
 ```
 
